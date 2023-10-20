@@ -1,4 +1,4 @@
 # apnacollage-demo
 This Is My First Repository
 <br>
-Author - Vikas Jadaun
+Author - Vikas Jadaun (Software Developer)
